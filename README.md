@@ -1,4 +1,4 @@
-# Exercício EBAC - Teste de API com Postman
+# Exercício de API com Postman
 
 ## Objetivo
 Realizar testes na API Hub de Leitura, validando a funcionalidade Catálogo de Livros.
